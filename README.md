@@ -1,2 +1,2 @@
 # Notebooks
-Python notebook to automate some tasks
+Python notebooks to automate some tasks
